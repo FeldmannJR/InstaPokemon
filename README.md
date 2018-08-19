@@ -18,7 +18,7 @@ The server had some custom items to help the staff to give pokemons to players o
  - Choose Pokemon = The player select a pokemon in the chest menu, being able to filter the pokemons by name.
  - Choose Legendary = Same as before, just with legendaries.
  - Mega Ring = Give the player a mega ring
- - Random Fossil/Evolutive Stone/TM = Random items
+ - Random Fossil/Evolutive Stone/TM = Random items  
  Video: https://youtu.be/yPwepCE5Lg4  
 
 ### Elites
@@ -31,5 +31,7 @@ A clan system with the name of elites, with the functionalites:
  - Change tag
  - Set a icon for the menus of the elite, player can set any of the badge that he had or pokemon sprites from the photographic album
  - View another elite players/allies/rivals/icon with a chest gui
- - Desband elite
+ - Staff can join elites and do all the leader cmds
+ - Desband elite  
+ Video: https://youtu.be/cdSQpt8elKQ  
  
